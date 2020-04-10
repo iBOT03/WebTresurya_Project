@@ -1,0 +1,6 @@
+REFERENSI BELAJAR MEMBUAT WEBSITE MENGGUNAKAN CODE IGNITER
+https://www.youtube.com/playlist?list=PLFIM0718LjIXU8ul9FiN-owk04cQKtHPw
+
+REFERENSI BELAJAR CRUD MENGGUNAKAN PHP & MYSQL
+https://www.petanikode.com/tutorial-php-mysql/
+https://www.codepolitan.com/tutorial-membuat-crud-php-dengan-mysql-59897c72d8470
